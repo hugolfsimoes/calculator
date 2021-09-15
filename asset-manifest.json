@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calculator/static/css/main.ddb6718c.chunk.css",
+    "main.js": "/calculator/static/js/main.48bc915e.chunk.js",
+    "main.js.map": "/calculator/static/js/main.48bc915e.chunk.js.map",
+    "runtime-main.js": "/calculator/static/js/runtime-main.7912f6fb.js",
+    "runtime-main.js.map": "/calculator/static/js/runtime-main.7912f6fb.js.map",
+    "static/js/2.1776a54e.chunk.js": "/calculator/static/js/2.1776a54e.chunk.js",
+    "static/js/2.1776a54e.chunk.js.map": "/calculator/static/js/2.1776a54e.chunk.js.map",
+    "static/js/3.38d47e65.chunk.js": "/calculator/static/js/3.38d47e65.chunk.js",
+    "static/js/3.38d47e65.chunk.js.map": "/calculator/static/js/3.38d47e65.chunk.js.map",
+    "index.html": "/calculator/index.html",
+    "static/css/main.ddb6718c.chunk.css.map": "/calculator/static/css/main.ddb6718c.chunk.css.map",
+    "static/js/2.1776a54e.chunk.js.LICENSE.txt": "/calculator/static/js/2.1776a54e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/calculator/static/media/RobotoMono-Thin.30914900.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7912f6fb.js",
+    "static/js/2.1776a54e.chunk.js",
+    "static/css/main.ddb6718c.chunk.css",
+    "static/js/main.48bc915e.chunk.js"
+  ]
+}
